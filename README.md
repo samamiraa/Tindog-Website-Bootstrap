@@ -1,6 +1,7 @@
 # Tindog-Website-Bootstrap
 
 ## Live URL
+https://samamiraa.github.io/Tindog-Website-Bootstrap/
 
 ## Description
 
@@ -19,9 +20,9 @@ https://www.appbrewery.com/
 
 ## Badges
 
-![HTML](https://img.shields.io/badge/HTML-100%25-blue
+![HTML](https://img.shields.io/badge/HTML-96%25-blue
 )
-![CSS](https://img.shields.io/badge/CSS-orange
+![CSS](https://img.shields.io/badge/CSS-4%25-orange
 )
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple
 )
